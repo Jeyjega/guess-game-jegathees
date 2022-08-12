@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container{
+    padding: 23%;
+    background-color: black;
+}
+
+.inp-box{
+    width: 50%;
+    height:50px;
+    color:black;
+    border-radius:10px 10px 10px 10px;
+    background-color: aquamarine;
+
+
+}
+button{
+    background-color: aqua;
+    border-radius: 30px 30px 30px 30px;
+    width:30% ;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    font-size: bolder;
+    height: 30px;
+}
+.rem-text{
+    margin-top: 20px;
+    color: white;
+}
+.strt{
+    margin-top: 20px;
+    color: white;
+   
+}
+.balance{
+    margin-top: 20px;
+    margin-left: 25%;
+    color: black;
+    background-color: antiquewhite;
+    border-radius:10px 10px 10px 10px;
+}
